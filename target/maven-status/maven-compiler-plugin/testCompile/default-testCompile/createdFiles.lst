@@ -1,0 +1,7 @@
+com\saucedemo\TestConfigurations.class
+com\saucedemo\TestBase$SauceTestWatcher.class
+com\saucedemo\TestBase.class
+com\saucedemo\CheckoutTest.class
+com\saucedemo\AuthenticationTest.class
+com\saucedemo\CartTest.class
+com\saucedemo\NavigationTest.class
